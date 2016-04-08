@@ -1,0 +1,9 @@
+Package: com.go1d.sample
+Name: sample
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Mr.Go1d
+Author: Mr.Go1d
+Section: Tweaks
